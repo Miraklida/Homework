@@ -1,0 +1,7 @@
+print('Hello World FUCK')
+print("")
+print('Hello CUC')
+print("cuc")
+print("")
+print("Fuck\ncuc")
+print(123)
